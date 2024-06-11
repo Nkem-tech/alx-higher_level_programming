@@ -1,3 +1,3 @@
 -- script that lists all databases of your MySQL server
-drop database se_learning;
+-- script should do this
 show databases;
